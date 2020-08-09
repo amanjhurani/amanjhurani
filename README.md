@@ -33,7 +33,7 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 👨🏽‍💻 I’m currently working on [Gozammer](https://github.com/abhisheknaiidu/Gozammer);
 - 🌱 I’m currently learning Machine Learning; 
 - 👯 I’m looking to collaborate on [Gozammer](https://github.com/abhisheknaiidu/Gozammer) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
@@ -57,4 +57,4 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanjhurani&show_icons=true&hide_border=true)

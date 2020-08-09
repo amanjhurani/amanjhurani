@@ -29,7 +29,7 @@
 
 Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media1.giphy.com/media/LmNwrBhejkK9EFP504/200.gif" />
   
 **Talking about Personal Stuffs:**
 

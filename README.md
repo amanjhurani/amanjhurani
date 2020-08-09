@@ -1,4 +1,5 @@
-### Hey 👋🏽, I'm Aman!
+### Hey 👋🏽, I'm Aman!<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalsavalia" alt="dhavalsavalia" /> </p>
+
 <br/>
 
 <a href="https://twitter.com/amanjhurani">

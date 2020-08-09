@@ -56,4 +56,4 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanjhurani&show_icons=true&hide_border=true)
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanjhurani&show_icons=true&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanjhurani&layout=compact)

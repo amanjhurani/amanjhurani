@@ -1,5 +1,4 @@
-### Hey 👋🏽, I'm Aman!<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhavalsavalia" alt="dhavalsavalia" /> </p>
-
+### Hey 👋🏽, I'm Aman!<p align="left">
 <br/>
 
 <a href="https://twitter.com/amanjhurani">
@@ -24,7 +23,8 @@
   <img align="left" alt="Aman's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=amanjhurani.amanjhurani)
+![](https://visitor-badge.glitch.me/badge?page_id=amanjhurani.amanjhurani)<img src="https://komarev.com/ghpvc/?username=amanjhurani" alt="amanjhurani" /> </p>
+
 
 <br />
 

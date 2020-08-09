@@ -19,7 +19,7 @@
 <a href="https://leetcode.com/amanjhurani5/">
   <img align="left" alt="Aman's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/amanjhurani5">
+<a href="https://www.codechef.com/users/amanjhurani">
   <img align="left" alt="Aman's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 

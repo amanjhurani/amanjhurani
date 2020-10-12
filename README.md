@@ -32,7 +32,7 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
-**Talking about Personal Stuffs:**
+**Talking about my Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [Gozammer](https://github.com/abhisheknaiidu/Gozammer);
 - 🌱 I’m currently learning Machine Learning; 

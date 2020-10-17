@@ -35,11 +35,8 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
 **Talking about my Personal Stuffs:**
 
 - 🌱 I’m currently learning Machine Learning; 
-- 👯 I’m looking to collaborate on [Gozammer](https://github.com/abhisheknaiidu/Gozammer) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
-- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: amanjhurani@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1L-H-FBy86Utkq475neU7Q3ucYn7-z6Gz/view)
 
 **Languages and Tools:**  
 

@@ -33,7 +33,7 @@ Hi, I'm Aman Jhurani, a Full Stack Developer 🚀 from India, currently. Beside'
   
 **Talking about my Personal Stuffs:**
 
-- 🌱 I’m currently learning Machine Learning; 
+- 🌱 I’m currently exploring Web Development; 
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 📫 How to reach me: amanjhurani@gmail.com;
 

@@ -1,26 +1,13 @@
 ### Hey 👋🏽, I'm Aman!<p align="left">
 <br/>
-
-<a href="https://twitter.com/amanjhurani">
-  <img align="left" alt="Aman Jhurani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/amanjhurani/">
-  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/ajuploads">
-  <img align="left" alt="Aman's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/amanjhurani/">
-  <img align="left" alt="Aman's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/amanjhurani/">
-  <img align="left" alt="Aman's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Aman's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://leetcode.com/amanjhurani5/">
-  <img align="left" alt="Aman's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Aman's Leetcode" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1734px-LeetCode_logo_white_no_text.svg.png" />
 </a>
 <a href="https://www.codechef.com/users/amanjhurani">
-  <img align="left" alt="Aman's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Aman's Codechef" width="22px" src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" />
 </a>
  <img src="https://komarev.com/ghpvc/?username=amanjhurani" alt="amanjhurani" />
 
